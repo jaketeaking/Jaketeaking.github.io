@@ -1,1 +1,392 @@
-[]
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.3.1.0"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Music Manager (Continued)",
+    "steamId": "3220120457",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids 2",
+    "steamId": "3309003431",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Animals Expanded",
+    "steamId": "2871933948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taranchuk, Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - Mushrooms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Alestria",
+    "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, dninemfive, Kikohi and Sarg",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "2890901044",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Guns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Helixien Gas Expanded",
+    "steamId": "2877699803",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - CORE",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Arquebus and Taranchuk",
+    "name": "Vanilla Temperature Expanded",
+    "steamId": "3202046258",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - Ukrainian Firearms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - Chapter #1",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - Chapter #2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - Community Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - Desert Tech Firearms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - FN SCAR",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - Kel-Tec Firearms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - KRISS Vector",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - KS-23 Shotgun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - M5 SPEAR, M250 & MG 338",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Rimmu-Nation² - Clothing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Rimmu-Nation² - Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.4"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "Barret MRAD and Geissele URGI",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Armors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Melee",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "Custom Colt Anaconda",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "Custom Glock 20",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "Custom Honey Badger",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "Custom SIG .300 MCX",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Victorique, Aurani and Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "3.1.0.0"
+  },
+  {
+    "author": "Harkon",
+    "name": "M1 Garand, Winchester 1894 & Colt 1862",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alan Dariva and Usagirei",
+    "name": "More Planning [1.5]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.18"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Fuse",
+    "steamId": "728314182",
+    "version": "1.7.0.0"
+  },
+  {
+    "author": "Harkon",
+    "name": "Ruger Mini",
+    "steamId": null,
+    "version": null
+  }
+]
